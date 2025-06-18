@@ -6,6 +6,10 @@ Designed for productivity and accessibility, SnapQuery runs in the background an
 
 ---
 
+## 🎬 Demo
+
+![SnapQuery Demo](media/SnapQuery_Demo.gif)
+
 ## ✨ Features
 
 ### 🔍 On-Screen Text Recognition
