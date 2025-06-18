@@ -8,7 +8,9 @@ Designed for productivity and accessibility, SnapQuery runs in the background an
 
 ## 🎬 Demo
 
-![SnapQuery Demo](media/SnapQuery_Demo.gif)
+![SnapQuery Demo]
+<img src="media/SnapQuery_Demo.gif" width="480"/>
+
 
 ## ✨ Features
 
