@@ -1,0 +1,8 @@
+<!-- res/layout/floating_toast_layout.xml -->
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/show_oval_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:background="@drawable/rounded_corners_buttons" />

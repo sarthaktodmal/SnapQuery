@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/show_oval">
+    <corners android:radius="100dp" /> <!-- Radius for rounded corners -->
+    <solid android:color="#41000000"/> <!-- Set your desired button background color -->
+</shape>
